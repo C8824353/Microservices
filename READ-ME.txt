@@ -1,0 +1,20 @@
+Microservices Architecture Example
+====================================
+
+Developing the 2 Microservices - Order and Payment Services and Integration
+Diagram
+Spring Cloud Eureka
+Spring Cloud Gateway
+Spring Cloud Hystrix
+
+
+
+==================================================
+server:
+  port: 8182
+spring:
+  h2:
+    console:
+      enabled: true 
+      
+==================================================	  
